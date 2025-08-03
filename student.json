@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Kumar",
+    "age": 17,
+    "class": "12th",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Sharma",
+    "age": 16,
+    "class": "11th",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "age": 18,
+    "class": "12th",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "age": 15,
+    "class": "10th",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Yadav",
+    "age": 17,
+    "class": "11th",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Mehta",
+    "age": 16,
+    "class": "10th",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "name": "Deepak Rana",
+    "age": 18,
+    "class": "12th",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Kajal Gupta",
+    "age": 15,
+    "class": "9th",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "name": "Manish Thakur",
+    "age": 16,
+    "class": "11th",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "name": "Pooja Chauhan",
+    "age": 17,
+    "class": "12th",
+    "gender": "Female"
+  }
+]
